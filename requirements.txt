@@ -1,0 +1,4 @@
+descope==1.7.2
+flet==0.25.2
+flet-cli==0.25.2
+flet-desktop==0.25.2
